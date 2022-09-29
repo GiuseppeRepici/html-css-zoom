@@ -25,6 +25,8 @@ header{
 
 main{
     height: calc(100vh - 110px);
+    overflow: auto;
+    margin-bottom: 5px;
 }
 .sect1{
     width: 90vw;
