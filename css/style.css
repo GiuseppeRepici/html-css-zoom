@@ -15,16 +15,24 @@ header{
     align-items: center;
 }
 
+
 .box1{
     border: 1px solid gray;
     background-color: gray;
     margin-right: 3px;
 }
 
+
+main{
+    height: calc(100vh - 110px);
+    margin-bottom: 20px;
+}
 .sect1{
     width: 90vw;
     margin: 0 auto;
 }
+
+
 
 .conteiner {
     display: flex;
