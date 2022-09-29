@@ -38,8 +38,15 @@ header{
 
 .card1{
     position: relative;
-    margin: 5px;
-    flex-basis: 14%;
+    margin-left: 3px;
+    margin-bottom: 10px;
+    flex-basis: calc(100% / 7 - 3px);
+}
+
+img{
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .pinco{
