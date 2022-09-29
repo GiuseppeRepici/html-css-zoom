@@ -25,7 +25,6 @@ header{
 
 main{
     height: calc(100vh - 110px);
-    margin-bottom: 20px;
 }
 .sect1{
     width: 90vw;
