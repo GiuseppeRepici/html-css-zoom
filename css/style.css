@@ -9,15 +9,15 @@ body{
 
 header{
     height: 30px;
-    background-color: aqua;
+    background-color: black;
     display: flex;
     justify-content: end;
     align-items: center;
 }
 
 .box1{
-    border: 1px solid bisque;
-    background-color: bisque;
+    border: 1px solid gray;
+    background-color: gray;
     margin-right: 3px;
 }
 
@@ -59,7 +59,7 @@ img{
 
 
 footer{
-    background-color: aquamarine;
+    background-color: black;
     height: 80px;
     width: 100vw;
 }
@@ -73,7 +73,10 @@ footer{
 .box{
     height: 100%;
     width: 90px;
-    background-color: white;
+    background-color: lightcoral;
 }
 
 
+span{
+    color: white;
+}
