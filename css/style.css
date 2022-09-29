@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: gray;
 }
 
 header{
@@ -20,5 +20,35 @@ header{
     background-color: bisque;
     margin-right: 3px;
 }
+
+.sect1{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.conteiner {
+    display: flex;
+    width: 90vw;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    
+}
+
+
+
+.card1{
+    position: relative;
+    margin: 5px;
+    flex-basis: 14%;
+}
+
+.pinco{
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    border: 1px solid black;
+    background-color: rgb(130, 70, 70);
+}
+
 
 
